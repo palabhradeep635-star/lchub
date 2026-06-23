@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1672-richest-customer-wealth](https://github.com/palabhradeep635-star/lchub/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/palabhradeep635-star/lchub/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/palabhradeep635-star/lchub/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
+| [2798-number-of-employees-who-met-the-target](https://github.com/palabhradeep635-star/lchub/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2942-find-words-containing-character](https://github.com/palabhradeep635-star/lchub/tree/main/2942-find-words-containing-character/) | Easy |
 | [3024-type-of-triangle](https://github.com/palabhradeep635-star/lchub/tree/main/3024-type-of-triangle/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/palabhradeep635-star/lchub/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |

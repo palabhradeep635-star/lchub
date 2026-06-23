@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/palabhradeep635-star/lchub/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/palabhradeep635-star/lchub/tree/main/0009-palindrome-number/) | Easy |
 | [0258-add-digits](https://github.com/palabhradeep635-star/lchub/tree/main/0258-add-digits/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/palabhradeep635-star/lchub/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0412-fizz-buzz](https://github.com/palabhradeep635-star/lchub/tree/main/0412-fizz-buzz/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/palabhradeep635-star/lchub/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/palabhradeep635-star/lchub/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/palabhradeep635-star/lchub/tree/main/0136-single-number/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/palabhradeep635-star/lchub/tree/main/0371-sum-of-two-integers/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/palabhradeep635-star/lchub/tree/main/1486-xor-operation-in-an-array/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |

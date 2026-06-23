@@ -21,9 +21,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1486-xor-operation-in-an-array](https://github.com/palabhradeep635-star/lchub/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [3024-type-of-triangle](https://github.com/palabhradeep635-star/lchub/tree/main/3024-type-of-triangle/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1672-richest-customer-wealth](https://github.com/palabhradeep635-star/lchub/tree/main/1672-richest-customer-wealth/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1486-xor-operation-in-an-array](https://github.com/palabhradeep635-star/lchub/tree/main/1486-xor-operation-in-an-array/) | Easy |
 <!---LeetCode Topics End-->

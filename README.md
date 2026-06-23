@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/palabhradeep635-star/lchub/tree/main/0053-maximum-subarray/) | Medium |
 | [0136-single-number](https://github.com/palabhradeep635-star/lchub/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/palabhradeep635-star/lchub/tree/main/0169-majority-element/) | Easy |
+| [0682-baseball-game](https://github.com/palabhradeep635-star/lchub/tree/main/0682-baseball-game/) | Easy |
 | [1051-height-checker](https://github.com/palabhradeep635-star/lchub/tree/main/1051-height-checker/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/palabhradeep635-star/lchub/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/palabhradeep635-star/lchub/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
@@ -72,12 +73,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/palabhradeep635-star/lchub/tree/main/0020-valid-parentheses/) | Easy |
+| [0682-baseball-game](https://github.com/palabhradeep635-star/lchub/tree/main/0682-baseball-game/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/palabhradeep635-star/lchub/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/palabhradeep635-star/lchub/tree/main/0412-fizz-buzz/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/palabhradeep635-star/lchub/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0682-baseball-game](https://github.com/palabhradeep635-star/lchub/tree/main/0682-baseball-game/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |

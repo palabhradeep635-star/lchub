@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/palabhradeep635-star/lchub/tree/main/1486-xor-operation-in-an-array/) | Easy |
+| [2652-sum-multiples](https://github.com/palabhradeep635-star/lchub/tree/main/2652-sum-multiples/) | Easy |
 | [3024-type-of-triangle](https://github.com/palabhradeep635-star/lchub/tree/main/3024-type-of-triangle/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |

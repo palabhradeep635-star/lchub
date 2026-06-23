@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1051-height-checker](https://github.com/palabhradeep635-star/lchub/tree/main/1051-height-checker/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/palabhradeep635-star/lchub/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/palabhradeep635-star/lchub/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
+| [2942-find-words-containing-character](https://github.com/palabhradeep635-star/lchub/tree/main/2942-find-words-containing-character/) | Easy |
 | [3024-type-of-triangle](https://github.com/palabhradeep635-star/lchub/tree/main/3024-type-of-triangle/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/palabhradeep635-star/lchub/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Sorting
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/palabhradeep635-star/lchub/tree/main/0020-valid-parentheses/) | Easy |
 | [0412-fizz-buzz](https://github.com/palabhradeep635-star/lchub/tree/main/0412-fizz-buzz/) | Easy |
+| [2942-find-words-containing-character](https://github.com/palabhradeep635-star/lchub/tree/main/2942-find-words-containing-character/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |

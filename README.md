@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1672-richest-customer-wealth](https://github.com/palabhradeep635-star/lchub/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/palabhradeep635-star/lchub/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [3024-type-of-triangle](https://github.com/palabhradeep635-star/lchub/tree/main/3024-type-of-triangle/) | Easy |
+| [3898-find-the-degree-of-each-vertex](https://github.com/palabhradeep635-star/lchub/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1672-richest-customer-wealth](https://github.com/palabhradeep635-star/lchub/tree/main/1672-richest-customer-wealth/) | Easy |
+| [3898-find-the-degree-of-each-vertex](https://github.com/palabhradeep635-star/lchub/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,4 +71,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/palabhradeep635-star/lchub/tree/main/0412-fizz-buzz/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/palabhradeep635-star/lchub/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 <!---LeetCode Topics End-->

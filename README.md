@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/palabhradeep635-star/lchub/tree/main/0020-valid-parentheses/) | Easy |
 | [0412-fizz-buzz](https://github.com/palabhradeep635-star/lchub/tree/main/0412-fizz-buzz/) | Easy |
+| [0657-robot-return-to-origin](https://github.com/palabhradeep635-star/lchub/tree/main/0657-robot-return-to-origin/) | Easy |
 | [2942-find-words-containing-character](https://github.com/palabhradeep635-star/lchub/tree/main/2942-find-words-containing-character/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0258-add-digits](https://github.com/palabhradeep635-star/lchub/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/palabhradeep635-star/lchub/tree/main/0412-fizz-buzz/) | Easy |
+| [0657-robot-return-to-origin](https://github.com/palabhradeep635-star/lchub/tree/main/0657-robot-return-to-origin/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |

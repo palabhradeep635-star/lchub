@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/palabhradeep635-star/lchub/tree/main/0053-maximum-subarray/) | Medium |
 | [0136-single-number](https://github.com/palabhradeep635-star/lchub/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/palabhradeep635-star/lchub/tree/main/0169-majority-element/) | Easy |
+| [0268-missing-number](https://github.com/palabhradeep635-star/lchub/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/palabhradeep635-star/lchub/tree/main/0283-move-zeroes/) | Easy |
 | [0682-baseball-game](https://github.com/palabhradeep635-star/lchub/tree/main/0682-baseball-game/) | Easy |
 | [1051-height-checker](https://github.com/palabhradeep635-star/lchub/tree/main/1051-height-checker/) | Easy |
@@ -24,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/palabhradeep635-star/lchub/tree/main/0169-majority-element/) | Easy |
+| [0268-missing-number](https://github.com/palabhradeep635-star/lchub/tree/main/0268-missing-number/) | Easy |
 | [1051-height-checker](https://github.com/palabhradeep635-star/lchub/tree/main/1051-height-checker/) | Easy |
 | [3024-type-of-triangle](https://github.com/palabhradeep635-star/lchub/tree/main/3024-type-of-triangle/) | Easy |
 ## Counting Sort
@@ -37,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/palabhradeep635-star/lchub/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/palabhradeep635-star/lchub/tree/main/0009-palindrome-number/) | Easy |
 | [0258-add-digits](https://github.com/palabhradeep635-star/lchub/tree/main/0258-add-digits/) | Easy |
+| [0268-missing-number](https://github.com/palabhradeep635-star/lchub/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/palabhradeep635-star/lchub/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0412-fizz-buzz](https://github.com/palabhradeep635-star/lchub/tree/main/0412-fizz-buzz/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/palabhradeep635-star/lchub/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
@@ -55,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/palabhradeep635-star/lchub/tree/main/0136-single-number/) | Easy |
+| [0268-missing-number](https://github.com/palabhradeep635-star/lchub/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/palabhradeep635-star/lchub/tree/main/0371-sum-of-two-integers/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/palabhradeep635-star/lchub/tree/main/1486-xor-operation-in-an-array/) | Easy |
 ## Divide and Conquer
@@ -70,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/palabhradeep635-star/lchub/tree/main/0169-majority-element/) | Easy |
+| [0268-missing-number](https://github.com/palabhradeep635-star/lchub/tree/main/0268-missing-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,4 +108,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/palabhradeep635-star/lchub/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/palabhradeep635-star/lchub/tree/main/0283-move-zeroes/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/palabhradeep635-star/lchub/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->

@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1051-height-checker](https://github.com/palabhradeep635-star/lchub/tree/main/1051-height-checker/) | Easy |
 | [1550-three-consecutive-odds](https://github.com/palabhradeep635-star/lchub/tree/main/1550-three-consecutive-odds/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/palabhradeep635-star/lchub/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1822-sign-of-the-product-of-an-array](https://github.com/palabhradeep635-star/lchub/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/palabhradeep635-star/lchub/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/palabhradeep635-star/lchub/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/palabhradeep635-star/lchub/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/palabhradeep635-star/lchub/tree/main/0412-fizz-buzz/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/palabhradeep635-star/lchub/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/palabhradeep635-star/lchub/tree/main/1486-xor-operation-in-an-array/) | Easy |
+| [1822-sign-of-the-product-of-an-array](https://github.com/palabhradeep635-star/lchub/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/palabhradeep635-star/lchub/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/palabhradeep635-star/lchub/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2652-sum-multiples](https://github.com/palabhradeep635-star/lchub/tree/main/2652-sum-multiples/) | Easy |

@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2942-find-words-containing-character](https://github.com/palabhradeep635-star/lchub/tree/main/2942-find-words-containing-character/) | Easy |
 | [3024-type-of-triangle](https://github.com/palabhradeep635-star/lchub/tree/main/3024-type-of-triangle/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/palabhradeep635-star/lchub/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/palabhradeep635-star/lchub/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/palabhradeep635-star/lchub/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2769-find-the-maximum-achievable-number](https://github.com/palabhradeep635-star/lchub/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [3024-type-of-triangle](https://github.com/palabhradeep635-star/lchub/tree/main/3024-type-of-triangle/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/palabhradeep635-star/lchub/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/palabhradeep635-star/lchub/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |

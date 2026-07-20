@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/palabhradeep635-star/lchub/tree/main/0020-valid-parentheses/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/palabhradeep635-star/lchub/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0682-baseball-game](https://github.com/palabhradeep635-star/lchub/tree/main/0682-baseball-game/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -154,4 +155,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/palabhradeep635-star/lchub/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/palabhradeep635-star/lchub/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/palabhradeep635-star/lchub/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/palabhradeep635-star/lchub/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 <!---LeetCode Topics End-->

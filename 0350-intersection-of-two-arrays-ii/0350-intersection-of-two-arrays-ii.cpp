@@ -8,8 +8,8 @@ public:
     for(int j=0;j<n2;j++){
         if(nums1[i]==nums2[j]){
             v.push_back(nums2[j]);
-           nums2[j]=INT_MIN;
-           break;
+           nums2[j]=INT_MIN;// unusableeeee by minimising it
+           break;//avoid redundancy
         }
     }
    }

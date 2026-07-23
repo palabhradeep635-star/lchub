@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/palabhradeep635-star/lchub/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/palabhradeep635-star/lchub/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/palabhradeep635-star/lchub/tree/main/0283-move-zeroes/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/palabhradeep635-star/lchub/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/palabhradeep635-star/lchub/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0682-baseball-game](https://github.com/palabhradeep635-star/lchub/tree/main/0682-baseball-game/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/palabhradeep635-star/lchub/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/palabhradeep635-star/lchub/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/palabhradeep635-star/lchub/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/palabhradeep635-star/lchub/tree/main/0268-missing-number/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/palabhradeep635-star/lchub/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/palabhradeep635-star/lchub/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/palabhradeep635-star/lchub/tree/main/1051-height-checker/) | Easy |
 | [3024-type-of-triangle](https://github.com/palabhradeep635-star/lchub/tree/main/3024-type-of-triangle/) | Easy |
@@ -102,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/palabhradeep635-star/lchub/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/palabhradeep635-star/lchub/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/palabhradeep635-star/lchub/tree/main/0268-missing-number/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/palabhradeep635-star/lchub/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/palabhradeep635-star/lchub/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -146,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/palabhradeep635-star/lchub/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/palabhradeep635-star/lchub/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/palabhradeep635-star/lchub/tree/main/0283-move-zeroes/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/palabhradeep635-star/lchub/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/palabhradeep635-star/lchub/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/palabhradeep635-star/lchub/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Binary Search
@@ -154,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/palabhradeep635-star/lchub/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/palabhradeep635-star/lchub/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/palabhradeep635-star/lchub/tree/main/0268-missing-number/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/palabhradeep635-star/lchub/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/palabhradeep635-star/lchub/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/palabhradeep635-star/lchub/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/palabhradeep635-star/lchub/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
+| [2683-neighboring-bitwise-xor](https://github.com/palabhradeep635-star/lchub/tree/main/2683-neighboring-bitwise-xor/) | Medium |
 | [2798-number-of-employees-who-met-the-target](https://github.com/palabhradeep635-star/lchub/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2942-find-words-containing-character](https://github.com/palabhradeep635-star/lchub/tree/main/2942-find-words-containing-character/) | Easy |
 | [3024-type-of-triangle](https://github.com/palabhradeep635-star/lchub/tree/main/3024-type-of-triangle/) | Easy |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/palabhradeep635-star/lchub/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/palabhradeep635-star/lchub/tree/main/0371-sum-of-two-integers/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/palabhradeep635-star/lchub/tree/main/1486-xor-operation-in-an-array/) | Easy |
+| [2683-neighboring-bitwise-xor](https://github.com/palabhradeep635-star/lchub/tree/main/2683-neighboring-bitwise-xor/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |

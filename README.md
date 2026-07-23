@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1486-xor-operation-in-an-array](https://github.com/palabhradeep635-star/lchub/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/palabhradeep635-star/lchub/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/palabhradeep635-star/lchub/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+| [1860-incremental-memory-leak](https://github.com/palabhradeep635-star/lchub/tree/main/1860-incremental-memory-leak/) | Medium |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/palabhradeep635-star/lchub/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/palabhradeep635-star/lchub/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2652-sum-multiples](https://github.com/palabhradeep635-star/lchub/tree/main/2652-sum-multiples/) | Easy |
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0657-robot-return-to-origin](https://github.com/palabhradeep635-star/lchub/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0682-baseball-game](https://github.com/palabhradeep635-star/lchub/tree/main/0682-baseball-game/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/palabhradeep635-star/lchub/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+| [1860-incremental-memory-leak](https://github.com/palabhradeep635-star/lchub/tree/main/1860-incremental-memory-leak/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/palabhradeep635-star/lchub/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |

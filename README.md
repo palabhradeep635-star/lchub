@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/palabhradeep635-star/lchub/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/palabhradeep635-star/lchub/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/palabhradeep635-star/lchub/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/palabhradeep635-star/lchub/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2683-neighboring-bitwise-xor](https://github.com/palabhradeep635-star/lchub/tree/main/2683-neighboring-bitwise-xor/) | Medium |
 | [2798-number-of-employees-who-met-the-target](https://github.com/palabhradeep635-star/lchub/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2942-find-words-containing-character](https://github.com/palabhradeep635-star/lchub/tree/main/2942-find-words-containing-character/) | Easy |
@@ -237,4 +238,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/palabhradeep635-star/lchub/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2574-left-and-right-sum-differences](https://github.com/palabhradeep635-star/lchub/tree/main/2574-left-and-right-sum-differences/) | Easy |
 <!---LeetCode Topics End-->

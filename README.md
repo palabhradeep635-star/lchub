@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3668-restore-finishing-order](https://github.com/palabhradeep635-star/lchub/tree/main/3668-restore-finishing-order/) | Easy |
 | [3895-count-digit-appearances](https://github.com/palabhradeep635-star/lchub/tree/main/3895-count-digit-appearances/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/palabhradeep635-star/lchub/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
+| [3925-concatenate-array-with-reverse](https://github.com/palabhradeep635-star/lchub/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1823-find-the-winner-of-the-circular-game](https://github.com/palabhradeep635-star/lchub/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1860-incremental-memory-leak](https://github.com/palabhradeep635-star/lchub/tree/main/1860-incremental-memory-leak/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/palabhradeep635-star/lchub/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [3925-concatenate-array-with-reverse](https://github.com/palabhradeep635-star/lchub/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |

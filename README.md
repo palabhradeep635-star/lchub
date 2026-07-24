@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/palabhradeep635-star/lchub/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/palabhradeep635-star/lchub/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0412-fizz-buzz](https://github.com/palabhradeep635-star/lchub/tree/main/0412-fizz-buzz/) | Easy |
+| [0441-arranging-coins](https://github.com/palabhradeep635-star/lchub/tree/main/0441-arranging-coins/) | Easy |
 | [0509-fibonacci-number](https://github.com/palabhradeep635-star/lchub/tree/main/0509-fibonacci-number/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/palabhradeep635-star/lchub/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/palabhradeep635-star/lchub/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
@@ -189,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/palabhradeep635-star/lchub/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/palabhradeep635-star/lchub/tree/main/0268-missing-number/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/palabhradeep635-star/lchub/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0441-arranging-coins](https://github.com/palabhradeep635-star/lchub/tree/main/0441-arranging-coins/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0682-baseball-game](https://github.com/palabhradeep635-star/lchub/tree/main/0682-baseball-game/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/palabhradeep635-star/lchub/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/palabhradeep635-star/lchub/tree/main/1051-height-checker/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/palabhradeep635-star/lchub/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1550-three-consecutive-odds](https://github.com/palabhradeep635-star/lchub/tree/main/1550-three-consecutive-odds/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/palabhradeep635-star/lchub/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/palabhradeep635-star/lchub/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/palabhradeep635-star/lchub/tree/main/0169-majority-element/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/palabhradeep635-star/lchub/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1051-height-checker](https://github.com/palabhradeep635-star/lchub/tree/main/1051-height-checker/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/palabhradeep635-star/lchub/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/palabhradeep635-star/lchub/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/palabhradeep635-star/lchub/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/palabhradeep635-star/lchub/tree/main/1486-xor-operation-in-an-array/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/palabhradeep635-star/lchub/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/palabhradeep635-star/lchub/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/palabhradeep635-star/lchub/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1860-incremental-memory-leak](https://github.com/palabhradeep635-star/lchub/tree/main/1860-incremental-memory-leak/) | Medium |
@@ -121,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/palabhradeep635-star/lchub/tree/main/0268-missing-number/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/palabhradeep635-star/lchub/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/palabhradeep635-star/lchub/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/palabhradeep635-star/lchub/tree/main/1512-number-of-good-pairs/) | Easy |
 | [3668-restore-finishing-order](https://github.com/palabhradeep635-star/lchub/tree/main/3668-restore-finishing-order/) | Easy |
 | [3945-digit-frequency-score](https://github.com/palabhradeep635-star/lchub/tree/main/3945-digit-frequency-score/) | Easy |
 ## String

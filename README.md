@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/palabhradeep635-star/lchub/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/palabhradeep635-star/lchub/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/palabhradeep635-star/lchub/tree/main/0136-single-number/) | Easy |
+| [0162-find-peak-element](https://github.com/palabhradeep635-star/lchub/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/palabhradeep635-star/lchub/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/palabhradeep635-star/lchub/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/palabhradeep635-star/lchub/tree/main/0268-missing-number/) | Easy |
@@ -187,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/palabhradeep635-star/lchub/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0162-find-peak-element](https://github.com/palabhradeep635-star/lchub/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/palabhradeep635-star/lchub/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/palabhradeep635-star/lchub/tree/main/0268-missing-number/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/palabhradeep635-star/lchub/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |

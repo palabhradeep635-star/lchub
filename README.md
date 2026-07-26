@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1672-richest-customer-wealth](https://github.com/palabhradeep635-star/lchub/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/palabhradeep635-star/lchub/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/palabhradeep635-star/lchub/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+| [1929-concatenation-of-array](https://github.com/palabhradeep635-star/lchub/tree/main/1929-concatenation-of-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/palabhradeep635-star/lchub/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/palabhradeep635-star/lchub/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/palabhradeep635-star/lchub/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
@@ -162,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0682-baseball-game](https://github.com/palabhradeep635-star/lchub/tree/main/0682-baseball-game/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/palabhradeep635-star/lchub/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1860-incremental-memory-leak](https://github.com/palabhradeep635-star/lchub/tree/main/1860-incremental-memory-leak/) | Medium |
+| [1929-concatenation-of-array](https://github.com/palabhradeep635-star/lchub/tree/main/1929-concatenation-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/palabhradeep635-star/lchub/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3701-compute-alternating-sum](https://github.com/palabhradeep635-star/lchub/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/palabhradeep635-star/lchub/tree/main/3925-concatenate-array-with-reverse/) | Easy |

@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/palabhradeep635-star/lchub/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/palabhradeep635-star/lchub/tree/main/0268-missing-number/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/palabhradeep635-star/lchub/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0389-find-the-difference](https://github.com/palabhradeep635-star/lchub/tree/main/0389-find-the-difference/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/palabhradeep635-star/lchub/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/palabhradeep635-star/lchub/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/palabhradeep635-star/lchub/tree/main/1051-height-checker/) | Easy |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/palabhradeep635-star/lchub/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/palabhradeep635-star/lchub/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/palabhradeep635-star/lchub/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0389-find-the-difference](https://github.com/palabhradeep635-star/lchub/tree/main/0389-find-the-difference/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/palabhradeep635-star/lchub/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [2683-neighboring-bitwise-xor](https://github.com/palabhradeep635-star/lchub/tree/main/2683-neighboring-bitwise-xor/) | Medium |
 ## Divide and Conquer
@@ -136,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/palabhradeep635-star/lchub/tree/main/0268-missing-number/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/palabhradeep635-star/lchub/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/palabhradeep635-star/lchub/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0389-find-the-difference](https://github.com/palabhradeep635-star/lchub/tree/main/0389-find-the-difference/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/palabhradeep635-star/lchub/tree/main/1512-number-of-good-pairs/) | Easy |
 | [3668-restore-finishing-order](https://github.com/palabhradeep635-star/lchub/tree/main/3668-restore-finishing-order/) | Easy |
 | [3945-digit-frequency-score](https://github.com/palabhradeep635-star/lchub/tree/main/3945-digit-frequency-score/) | Easy |
@@ -145,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/palabhradeep635-star/lchub/tree/main/0020-valid-parentheses/) | Easy |
 | [0344-reverse-string](https://github.com/palabhradeep635-star/lchub/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/palabhradeep635-star/lchub/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0389-find-the-difference](https://github.com/palabhradeep635-star/lchub/tree/main/0389-find-the-difference/) | Easy |
 | [0412-fizz-buzz](https://github.com/palabhradeep635-star/lchub/tree/main/0412-fizz-buzz/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/palabhradeep635-star/lchub/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0709-to-lower-case](https://github.com/palabhradeep635-star/lchub/tree/main/0709-to-lower-case/) | Easy |

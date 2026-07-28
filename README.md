@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1051-height-checker](https://github.com/palabhradeep635-star/lchub/tree/main/1051-height-checker/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/palabhradeep635-star/lchub/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3024-type-of-triangle](https://github.com/palabhradeep635-star/lchub/tree/main/3024-type-of-triangle/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/palabhradeep635-star/lchub/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/palabhradeep635-star/lchub/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1051-height-checker](https://github.com/palabhradeep635-star/lchub/tree/main/1051-height-checker/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/palabhradeep635-star/lchub/tree/main/1512-number-of-good-pairs/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/palabhradeep635-star/lchub/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -158,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2942-find-words-containing-character](https://github.com/palabhradeep635-star/lchub/tree/main/2942-find-words-containing-character/) | Easy |
 | [3019-number-of-changing-keys](https://github.com/palabhradeep635-star/lchub/tree/main/3019-number-of-changing-keys/) | Easy |
 | [3110-score-of-a-string](https://github.com/palabhradeep635-star/lchub/tree/main/3110-score-of-a-string/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/palabhradeep635-star/lchub/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |

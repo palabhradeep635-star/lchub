@@ -221,11 +221,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/palabhradeep635-star/lchub/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/palabhradeep635-star/lchub/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/palabhradeep635-star/lchub/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/palabhradeep635-star/lchub/tree/main/0206-reverse-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/palabhradeep635-star/lchub/tree/main/0509-fibonacci-number/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/palabhradeep635-star/lchub/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Memoization

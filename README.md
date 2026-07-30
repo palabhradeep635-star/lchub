@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/palabhradeep635-star/lchub/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2652-sum-multiples](https://github.com/palabhradeep635-star/lchub/tree/main/2652-sum-multiples/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/palabhradeep635-star/lchub/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/palabhradeep635-star/lchub/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3024-type-of-triangle](https://github.com/palabhradeep635-star/lchub/tree/main/3024-type-of-triangle/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/palabhradeep635-star/lchub/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/palabhradeep635-star/lchub/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
@@ -160,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1108-defanging-an-ip-address](https://github.com/palabhradeep635-star/lchub/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/palabhradeep635-star/lchub/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2942-find-words-containing-character](https://github.com/palabhradeep635-star/lchub/tree/main/2942-find-words-containing-character/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/palabhradeep635-star/lchub/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3019-number-of-changing-keys](https://github.com/palabhradeep635-star/lchub/tree/main/3019-number-of-changing-keys/) | Easy |
 | [3110-score-of-a-string](https://github.com/palabhradeep635-star/lchub/tree/main/3110-score-of-a-string/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/palabhradeep635-star/lchub/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -277,4 +279,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/palabhradeep635-star/lchub/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/palabhradeep635-star/lchub/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 <!---LeetCode Topics End-->

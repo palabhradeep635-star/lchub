@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/palabhradeep635-star/lchub/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0053-maximum-subarray](https://github.com/palabhradeep635-star/lchub/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/palabhradeep635-star/lchub/tree/main/0066-plus-one/) | Easy |
+| [0073-set-matrix-zeroes](https://github.com/palabhradeep635-star/lchub/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/palabhradeep635-star/lchub/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/palabhradeep635-star/lchub/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/palabhradeep635-star/lchub/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/palabhradeep635-star/lchub/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/palabhradeep635-star/lchub/tree/main/1672-richest-customer-wealth/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/palabhradeep635-star/lchub/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Bit Manipulation
@@ -141,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/palabhradeep635-star/lchub/tree/main/0001-two-sum/) | Easy |
+| [0073-set-matrix-zeroes](https://github.com/palabhradeep635-star/lchub/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/palabhradeep635-star/lchub/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/palabhradeep635-star/lchub/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/palabhradeep635-star/lchub/tree/main/0268-missing-number/) | Easy |

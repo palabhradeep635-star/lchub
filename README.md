@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/palabhradeep635-star/lchub/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0015-3sum](https://github.com/palabhradeep635-star/lchub/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/palabhradeep635-star/lchub/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0048-rotate-image](https://github.com/palabhradeep635-star/lchub/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/palabhradeep635-star/lchub/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/palabhradeep635-star/lchub/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/palabhradeep635-star/lchub/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/palabhradeep635-star/lchub/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/palabhradeep635-star/lchub/tree/main/0009-palindrome-number/) | Easy |
+| [0048-rotate-image](https://github.com/palabhradeep635-star/lchub/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/palabhradeep635-star/lchub/tree/main/0066-plus-one/) | Easy |
 | [0258-add-digits](https://github.com/palabhradeep635-star/lchub/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/palabhradeep635-star/lchub/tree/main/0268-missing-number/) | Easy |
@@ -115,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/palabhradeep635-star/lchub/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/palabhradeep635-star/lchub/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/palabhradeep635-star/lchub/tree/main/1672-richest-customer-wealth/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/palabhradeep635-star/lchub/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |

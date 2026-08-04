@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/palabhradeep635-star/lchub/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3668-restore-finishing-order](https://github.com/palabhradeep635-star/lchub/tree/main/3668-restore-finishing-order/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/palabhradeep635-star/lchub/tree/main/3701-compute-alternating-sum/) | Easy |
+| [3731-find-missing-elements](https://github.com/palabhradeep635-star/lchub/tree/main/3731-find-missing-elements/) | Easy |
 | [3895-count-digit-appearances](https://github.com/palabhradeep635-star/lchub/tree/main/3895-count-digit-appearances/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/palabhradeep635-star/lchub/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/palabhradeep635-star/lchub/tree/main/3925-concatenate-array-with-reverse/) | Easy |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/palabhradeep635-star/lchub/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3024-type-of-triangle](https://github.com/palabhradeep635-star/lchub/tree/main/3024-type-of-triangle/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/palabhradeep635-star/lchub/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+| [3731-find-missing-elements](https://github.com/palabhradeep635-star/lchub/tree/main/3731-find-missing-elements/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -156,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1512-number-of-good-pairs](https://github.com/palabhradeep635-star/lchub/tree/main/1512-number-of-good-pairs/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/palabhradeep635-star/lchub/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3668-restore-finishing-order](https://github.com/palabhradeep635-star/lchub/tree/main/3668-restore-finishing-order/) | Easy |
+| [3731-find-missing-elements](https://github.com/palabhradeep635-star/lchub/tree/main/3731-find-missing-elements/) | Easy |
 | [3945-digit-frequency-score](https://github.com/palabhradeep635-star/lchub/tree/main/3945-digit-frequency-score/) | Easy |
 ## String
 | Problem Name | Difficulty |

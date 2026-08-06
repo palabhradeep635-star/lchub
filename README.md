@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/palabhradeep635-star/lchub/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3024-type-of-triangle](https://github.com/palabhradeep635-star/lchub/tree/main/3024-type-of-triangle/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/palabhradeep635-star/lchub/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/palabhradeep635-star/lchub/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/palabhradeep635-star/lchub/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3516-find-closest-person](https://github.com/palabhradeep635-star/lchub/tree/main/3516-find-closest-person/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/palabhradeep635-star/lchub/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -299,4 +300,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/palabhradeep635-star/lchub/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/palabhradeep635-star/lchub/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/palabhradeep635-star/lchub/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 <!---LeetCode Topics End-->

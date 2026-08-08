@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/palabhradeep635-star/lchub/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0015-3sum](https://github.com/palabhradeep635-star/lchub/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/palabhradeep635-star/lchub/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0035-search-insert-position](https://github.com/palabhradeep635-star/lchub/tree/main/0035-search-insert-position/) | Easy |
 | [0048-rotate-image](https://github.com/palabhradeep635-star/lchub/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/palabhradeep635-star/lchub/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/palabhradeep635-star/lchub/tree/main/0066-plus-one/) | Easy |
@@ -232,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/palabhradeep635-star/lchub/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0035-search-insert-position](https://github.com/palabhradeep635-star/lchub/tree/main/0035-search-insert-position/) | Easy |
 | [0162-find-peak-element](https://github.com/palabhradeep635-star/lchub/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/palabhradeep635-star/lchub/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/palabhradeep635-star/lchub/tree/main/0268-missing-number/) | Easy |

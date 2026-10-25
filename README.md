@@ -189,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0709-to-lower-case](https://github.com/palabhradeep635-star/lchub/tree/main/0709-to-lower-case/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/palabhradeep635-star/lchub/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1108-defanging-an-ip-address](https://github.com/palabhradeep635-star/lchub/tree/main/1108-defanging-an-ip-address/) | Easy |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/palabhradeep635-star/lchub/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/palabhradeep635-star/lchub/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2942-find-words-containing-character](https://github.com/palabhradeep635-star/lchub/tree/main/2942-find-words-containing-character/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/palabhradeep635-star/lchub/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -205,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/palabhradeep635-star/lchub/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0682-baseball-game](https://github.com/palabhradeep635-star/lchub/tree/main/0682-baseball-game/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/palabhradeep635-star/lchub/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/palabhradeep635-star/lchub/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -324,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/palabhradeep635-star/lchub/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/palabhradeep635-star/lchub/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/palabhradeep635-star/lchub/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/palabhradeep635-star/lchub/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Enumeration
@@ -335,4 +338,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/palabhradeep635-star/lchub/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/palabhradeep635-star/lchub/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 <!---LeetCode Topics End-->

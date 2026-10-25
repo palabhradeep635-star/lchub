@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/palabhradeep635-star/lchub/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/palabhradeep635-star/lchub/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/palabhradeep635-star/lchub/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/palabhradeep635-star/lchub/tree/main/0048-rotate-image/) | Medium |
@@ -257,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/palabhradeep635-star/lchub/tree/main/0002-add-two-numbers/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/palabhradeep635-star/lchub/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0206-reverse-linked-list](https://github.com/palabhradeep635-star/lchub/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/palabhradeep635-star/lchub/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
@@ -265,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/palabhradeep635-star/lchub/tree/main/0002-add-two-numbers/) | Medium |
 | [0206-reverse-linked-list](https://github.com/palabhradeep635-star/lchub/tree/main/0206-reverse-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/palabhradeep635-star/lchub/tree/main/0509-fibonacci-number/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/palabhradeep635-star/lchub/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |

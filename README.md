@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/palabhradeep635-star/lchub/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/palabhradeep635-star/lchub/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/palabhradeep635-star/lchub/tree/main/0066-plus-one/) | Easy |
+| [0070-climbing-stairs](https://github.com/palabhradeep635-star/lchub/tree/main/0070-climbing-stairs/) | Easy |
 | [0258-add-digits](https://github.com/palabhradeep635-star/lchub/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/palabhradeep635-star/lchub/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/palabhradeep635-star/lchub/tree/main/0371-sum-of-two-integers/) | Medium |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/palabhradeep635-star/lchub/tree/main/0053-maximum-subarray/) | Medium |
+| [0070-climbing-stairs](https://github.com/palabhradeep635-star/lchub/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/palabhradeep635-star/lchub/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/palabhradeep635-star/lchub/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0509-fibonacci-number](https://github.com/palabhradeep635-star/lchub/tree/main/0509-fibonacci-number/) | Easy |
@@ -268,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/palabhradeep635-star/lchub/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/palabhradeep635-star/lchub/tree/main/0509-fibonacci-number/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
